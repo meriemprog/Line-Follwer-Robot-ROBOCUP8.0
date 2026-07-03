@@ -71,4 +71,9 @@ Notes
 
 
 Some code comments and variable names are in French/Darija (e.g. t_lekhra, khrouj, test_tri9_twil), reflecting the original development context — functionally these track timing and state flags for the inverted-line exit sequence.
-The timed phases in loop() are tuned for a specific competition track and will need to be re-calibrated (both timings and sensor weights) if reused on a different course.
+The timed phases in loop() are tuned for a specific competition track and will need to be re-calibrated (both timings and sensor weights) if reused on a different course. [Uploading CDC-SUIVEUR.pdf…]()
+
+
+https://github.com/user-attachments/assets/bd51bef6-24f9-4c43-a9d5-c52722ca410f
+
+
