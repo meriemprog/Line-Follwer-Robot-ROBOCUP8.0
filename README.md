@@ -1,3 +1,4 @@
+<img width="282" height="751" alt="map" src="https://github.com/user-attachments/assets/90800433-9444-409d-9c55-69cb765ee236" />
 Readme · MDPID Line-Follower Robot (ESP32)
 
 An autonomous line-following robot built for competition, running on an ESP32 microcontroller. The robot uses a 6-sensor IR array with a PID control loop to track a line, handles inverted-color (color-swap) track sections, and includes timed maneuver phases tuned for a specific competition course.
